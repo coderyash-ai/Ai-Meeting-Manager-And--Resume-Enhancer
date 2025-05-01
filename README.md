@@ -55,5 +55,5 @@ An all-in-one AI-powered productivity suite that analyzes resumes, summarizes me
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/Ai-Meeting-Manager-And--Resume-Enhancer.git
+git clone https://github.com/coderyash-ai/Ai-Meeting-Manager-And--Resume-Enhancer.git
 cd Ai-Meeting-Manager-And--Resume-Enhancer
